@@ -25,6 +25,7 @@ import java.util.concurrent.CountDownLatch;
 public class RedisSubListenerConfig {
 
 
+    //测试
     public static class Const {
         //通道名称
         public static final String CHANNEL = "test_channel";
