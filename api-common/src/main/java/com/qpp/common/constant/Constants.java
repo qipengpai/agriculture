@@ -65,4 +65,52 @@ public class Constants {
      * 排序的方向 "desc" 或者 "asc".
      */
     public static String IS_ASC = "isAsc";
+
+    /**
+     * @Fields LOCKTIMES : TODO(被锁定限定次数)
+     */
+    public static final String LOCKTIMES = "LOCKTIMES";
+
+    /**
+     * @Fields APPKEY : TODO(用一句话描述这个变量表示什么)
+     */
+    public static String APPKEY = "12345678";
+
+    /**
+     * @Fields APPKEY : TODO(新注册用户默认角色)
+     */
+    public static String DEFAULT_ROLE = "COMMON_ROLE";
+
+    /**
+     * @Fields APPKEY : TODO(蚂蚁金盾app 默认角色id)
+     */
+    public static String DEFAULT_MANAGER_ROLE = "2";
+
+    /**
+     * @Fields GZIP_URI : TODO(指定gzip压缩过滤器的URI)
+     */
+    public static String GZIP_URI_FILTER1 = "/appApi/*";
+
+    /**
+     * @Fields GZIP_URI : TODO(用一句话描述这个变量表示什么)
+     */
+    public static String GZIP_URI1 = "/appApi/";
+    /**
+     * @Fields GZIP_URI : TODO(指定gzip压缩过滤器的URI)
+     */
+    public static String GZIP_URI_FILTER2 = "/appCommonApi/*";
+
+    /**
+     * @Fields GZIP_URI : TODO(用一句话描述这个变量表示什么)
+     */
+    public static String GZIP_URI2 = "/appCommonApi/";
+    /**
+     * @Fields GZIP_URI : TODO(指定gzip压缩过滤器的URI)
+     */
+    public static String GZIP_URI_FILTER3 = "/openCommonApi/*";
+
+    /**
+     * @Fields GZIP_URI : TODO(用一句话描述这个变量表示什么)
+     */
+    public static String GZIP_URI3 = "/openCommonApi/";
 }

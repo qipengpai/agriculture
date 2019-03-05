@@ -24,8 +24,10 @@ import java.util.concurrent.CountDownLatch;
 @AutoConfigureAfter({RedisReceiver.class})
 public class RedisSubListenerConfig {
 
-
     public static class Const {
+         private Const(){
+             throw new IllegalStateException("Utility class");
+         }
         //通道名称
         public static final String CHANNEL = "test_channel";
 

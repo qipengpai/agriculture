@@ -82,12 +82,12 @@ public class LogAspect {
         } catch (UnavailableSecurityManagerException e) {
             log.error("[LogAspect]{addLog} -> error!",e);
         }
-        Future<String> doFutrue =logService.insertLog(sysLog);
+        Future<String> doFuture = logService.insertLog(sysLog);
         while(true) {
             //判断异步任务是否完成
-            if(doFutrue.isDone()) {
+            if(doFuture.isDone()) {
                 try {
-                    log.info("[LogAspect]{addLog} -> "+doFutrue.get());
+                    log.info("[LogAspect]{addLog} -> "+doFuture.get());
                 } catch (InterruptedException e) {
                     log.error("[LogAspect]{addLog} -> error! ",e);
                     /**
