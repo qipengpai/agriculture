@@ -16,7 +16,7 @@ import java.util.Map;
 /**
  * 业务异常
  *
- * @author mitou
+ * @author qipengpai
  * @Date   15/6/23 Time:18:27
  */
 public class BusinessException extends Exception {
