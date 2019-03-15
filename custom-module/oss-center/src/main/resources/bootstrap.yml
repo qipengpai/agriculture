@@ -65,7 +65,10 @@ pagehelper:
   reasonable: true
   supportMethodsArguments: true
   params: count=countSql
-
+portals:
+  upload:
+    image:
+      path: d:/qrcode
 qiniu:
   oss:
     access_key: k_ag52XwtjTrXCNHnIjdfTyCC4B76c-sS2iahSL0
