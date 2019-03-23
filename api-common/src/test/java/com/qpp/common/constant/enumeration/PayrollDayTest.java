@@ -21,7 +21,7 @@ public class PayrollDayTest {
 
     public static void main(String[] args) {
         double [] hoursWorks = new double[]{8d,11d,13d,15d,8d,0d,8d};
-        double payRate = 600d;
+        double payRate = 6000d;
         PayrollDay[] payrollDays = PayrollDay.values();
         for (int i = 0; i < hoursWorks.length; i++) {
             System.out.printf("%s 的工资是--%f%n",payrollDays[i],payrollDays[i].pay(hoursWorks[i],payRate));
