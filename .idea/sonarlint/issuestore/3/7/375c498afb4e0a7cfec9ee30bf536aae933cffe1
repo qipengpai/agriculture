@@ -1,11 +1,0 @@
-
-tsquid:S3305"XInject this field value directly into "sqlSessionFactory", the only method that uses it.(«ª“ø8èÿ¨‰ý,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(…“´ýýÿÿÿÿ8‘ËŸ‰ý,
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Îä™š8‘ËŸ‰ý,
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ýšÉÐúÿÿÿÿ8Š¤§‰ý,
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8‘ËŸ‰ý,
-§%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¸þê¡þÿÿÿÿ8ø„´‰ý,
-squid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Qualifier'.(íàÄ®ýÿÿÿÿ8Ää³‰ý,
-hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¸þê¡þÿÿÿÿ8îÄ³‰ý,
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¢ÿßøûÿÿÿÿ8Š¤§‰ý,

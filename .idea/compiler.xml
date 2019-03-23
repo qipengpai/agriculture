@@ -12,6 +12,10 @@
         <module name="db-core" />
         <module name="eureka_client" />
         <module name="eureka_server" />
+        <module name="original-config" />
+        <module name="oss-center" />
+        <module name="turbine-dashboard" />
+        <module name="zuul-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -41,8 +45,14 @@
       <module name="eureka_server" target="1.8" />
       <module name="eurekaclient" target="1.8" />
       <module name="eurekaserver" target="1.8" />
+      <module name="log-center" target="1.8" />
+      <module name="original-config" target="1.8" />
+      <module name="oss-center" target="1.8" />
       <module name="register-center" target="1.8" />
       <module name="test-project" target="1.8" />
+      <module name="turbine-dashboard" target="1.8" />
+      <module name="zipkin-server" target="1.8" />
+      <module name="zuul-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

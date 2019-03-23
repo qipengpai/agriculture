@@ -1,6 +1,3 @@
 
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(„æºä8¬á¼ˆı,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(ë·ÿÿÿÿÿ8¬á¼ˆı,
 wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(şÿä„8¬á¼ˆı,
+Msquid:S1135"2Complete the task associated to this TODO comment.(€­Ëf8óêıÓƒ-

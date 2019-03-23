@@ -1,7 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e872e6f6-803f-4b93-adf6-e3f9a1787366" name="Default" comment="this is first commit" />
+    <list default="true" id="e872e6f6-803f-4b93-adf6-e3f9a1787366" name="Default" comment="oss 第一版待修改">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_core_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_ecs_4_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_ram_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_sts_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_oss_aliyun_sdk_oss_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generate_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_support_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_kryo_shaded_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_annotations_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qiniu_qiniu_java_sdk_7_2_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_http_client_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_9_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_java8_9_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_31_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_31_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_31_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_31_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_31_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_31_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_jexl_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_5_1_3_201810200350_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_5_1_3_201810200350_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jdom_jdom_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20170516.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_bus_2_1_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_1_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_1_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_function_context_2_0_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_function_core_2_0_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_1_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_1_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_bus_amqp_2_1_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_1_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_1_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_1_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_stream_rabbit_2_1_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_2_1_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_rabbit_2_1_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_rabbit_core_2_1_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_amqp_5_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_jmx_5_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_tuple_1_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tuple_1_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/36f7c148b6d5dc0de7a96984e84941a6984b46ca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47aaa4d163895549cdb56a4316d94a56c135cf9e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/609ea3a078de8866ba98889171f6266856e5a813" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7ea1da4a6037eaa0dd2ff9c04a62bea4bc14b086" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7fefe37ca203bd1ae1c84ec67898e078c336f03f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/818c731f99d11e495d3e2bb78ebb7e468598db87" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a20855dfba722c0b53bf5b4556499d68c4a0cb73" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b65717415984d01405000d48a284467a917e32a5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b7731e5d3980693c369929ac2fb43ba4ec0b129a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b9ef9bc8e79431b15fb05b847b267fa83d24e6fd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c026273f1e00895bcb1bc7a29d0d5bbd98af95cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ce0e7119e059f07c3d04023d3fc7ce1e23bf2a41" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d605c8e7d6ee216a81f6a79bf100fc0c583b69a6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/dd333f369e6979fdc70810f8468aa2426f05283c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/eda534a971d464dcb95da375e876853aa64972fe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_ulisesbocchio_jasypt_spring_boot_1_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_ulisesbocchio_jasypt_spring_boot_starter_1_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_shardingjdbc_sharding_jdbc_core_2_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_9_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_18.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_18.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_indy_2_4_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_8_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jasypt_jasypt_1_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_1_0_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/00aa8239d964cdd5d56bea4aabb8f783aceb3a0c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/1/018bfd24957d89fccfe150c1520550ab812b1519" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/04c2362c16d04c42395d8ae4281357aa19e1e701" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1b8a3fdf59e3555a1094a782e8eeb5f62721f733" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/20f8bdcf1a95764dace39c77c4f5d71be50cb357" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/225919c30d125710cf055bbffe088cfa7a8f711b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/25b33b618f87cc3b97c7bc012e9c6d00ec4e747f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/347e2d65aa89127a6271c464d9b6d491e49eac8d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/350a4f94943c7556935d5591c79b714fea87c9cd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/350a4f94943c7556935d5591c79b714fea87c9cd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/3625d8ce2a3dda7d66a8c13f7988f5457921df1e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/375c498afb4e0a7cfec9ee30bf536aae933cffe1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b2e4d028e355263380b86ec639c990ef7f8fa44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4e3ec29f79aef611474301b46218a5c1135dd47e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4e3ec29f79aef611474301b46218a5c1135dd47e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/55f8d5f0828baa038e7646caa9f44166f6bd6007" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/55f8d5f0828baa038e7646caa9f44166f6bd6007" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5f22a43e6bf449fd860e898a54db90a8861cc4f5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/6715a36a846df15e6d82217e1af8d458f0a76144" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b0ff9f5fdbd6f203696a5ec3fb9edf6c6815d9c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b0ff9f5fdbd6f203696a5ec3fb9edf6c6815d9c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/74d01ec61d8b5a1ea2ca0be4bad9c92aaa6983f4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/74d01ec61d8b5a1ea2ca0be4bad9c92aaa6983f4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/7737e64186ec601cd7ec8eb5d3c642b10d84decf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/7881989b558d850ca031b3255491de289c51ecd1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/7881989b558d850ca031b3255491de289c51ecd1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/7902b57e1c924d9578d2570c581f865934a8ad29" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/7902b57e1c924d9578d2570c581f865934a8ad29" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b9a232b7431b721b145dec87ce158f565ce10af" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a296ed59c863c92525395ed4fec342f6906fc474" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a7a16d406ff70b218a3679665f0215714cc00d33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b709c97f0ca09a2cce1dbbb186055e6c37d482df" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b860ef3255b2f20574f47affb20b1662a2786278" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8dfc5b030411f9776e3e31923884e8ffa09dfe7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c49f68d132be4cb825878562c852cdbbb8c3e217" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc7388e26a8b9b3e84f33cebb79cd75703d8f927" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7e7639c33910e1169550d96d2b6ee335d2fd777" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7e7639c33910e1169550d96d2b6ee335d2fd777" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/dbe5b666579c3244881ccb6fb003c80ec220faaa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e377cb45d69162d5d4e8f9733540f51884d04b1c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e377cb45d69162d5d4e8f9733540f51884d04b1c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f3799f6f698176cda218469ab00b7a296f35201c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f61bdfd5b25b935d09c28d45c9cceb89c105cd34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6c51d4d277b68ee30693db1a3e07a6fffbf13e6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-common/api-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/api-common/api-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom-module/admin-user/admin-user.iml" beforeDir="false" afterPath="$PROJECT_DIR$/custom-module/admin-user/admin-user.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom-module/oss-center/oss-center.iml" beforeDir="false" afterPath="$PROJECT_DIR$/custom-module/oss-center/oss-center.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db-core/db-core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/db-core/db-core.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/register-center/target/" />
@@ -28,6 +191,12 @@
     <ignored path="$PROJECT_DIR$/custom-module/admin-user/target/" />
     <ignored path="$PROJECT_DIR$/api-base/target/" />
     <ignored path="$PROJECT_DIR$/api-basic/target/" />
+    <ignored path="$PROJECT_DIR$/custom-module/log-center/target/" />
+    <ignored path="$PROJECT_DIR$/custom-module/oss-center/target/" />
+    <ignored path="$PROJECT_DIR$/config-center/original-config/target/" />
+    <ignored path="$PROJECT_DIR$/zuul-server/target/" />
+    <ignored path="$PROJECT_DIR$/turbine-dashboard/target/" />
+    <ignored path="$PROJECT_DIR$/zipkin-server/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,56 +204,116 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="agriculture" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="icon.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/html/icon.html">
+      <file leaf-file-name="Planet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/enums/Planet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="680">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
               <folding>
-                <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
+                <element signature="e#735#736#0" expanded="true" />
+                <element signature="e#764#765#0" expanded="true" />
+                <element signature="e#842#843#0" expanded="true" />
+                <element signature="e#889#890#0" expanded="true" />
+                <element signature="e#943#944#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="font-awesome.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/plugins/font-awesome/css/font-awesome.css">
+      <file leaf-file-name="OperationTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api-common/src/test/java/com/qpp/common/constant/enumeration/OperationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-300" />
+            <state relative-caret-position="320">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.ftl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/login.ftl">
+      <file leaf-file-name="Operation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/enums/Operation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1874" />
+            <state relative-caret-position="-549">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="loginValidate.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/tools/loginValidate.js">
+      <file leaf-file-name="PayrollDay.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/enums/PayrollDay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-100" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/tools/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-554">
+            <state relative-caret-position="451">
+              <caret line="50" column="61" lean-forward="true" selection-start-line="50" selection-start-column="61" selection-end-line="50" selection-end-column="61" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#612#613#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tool.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/tools/tool.js">
+      <file leaf-file-name="PayrollDayTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/api-common/src/test/java/com/qpp/common/constant/enumeration/PayrollDayTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-359">
-              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+            <state relative-caret-position="218">
+              <caret line="22" column="67" selection-start-line="22" selection-start-column="67" selection-end-line="22" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoundingMode.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/DevTool/java/jdk1.8/src.zip!/java/math/RoundingMode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2081">
+              <caret line="324" column="36" selection-start-line="324" selection-start-column="36" selection-end-line="324" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BigDecimal.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/DevTool/java/jdk1.8/src.zip!/java/math/BigDecimal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7269">
+              <caret line="2300" column="28" selection-start-line="2300" selection-start-column="28" selection-end-line="2300" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserStatus.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/enums/UserStatus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WeightTable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api-common/src/test/java/com/qpp/common/constant/enumeration/WeightTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="29" column="58" lean-forward="true" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,6 +323,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -104,15 +335,34 @@
       <find>com.moka.mapper</find>
       <find>Schdul</find>
       <find>ftl</find>
+      <find>{</find>
+      <find>getMenuChildrenAll</find>
+      <find>add-properties</find>
+      <find>logger</find>
+      <find>enum</find>
     </findStrings>
     <replaceStrings>
       <replace>com.qpp.admin.entity.system</replace>
       <replace>com.qpp.admin.mapper.system</replace>
+      <replace>log</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="second/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -127,57 +377,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/mapper/system/SysJobMapper.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/service/system/impl/PushJobServiceImpl.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/service/system/JobService.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/service/system/impl/JobServiceImpl.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/core/annotation/LogAspect.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/controller/MenuController.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/entity/SchdulerJob.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/core/quartz/RunJob.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/core/quartz/JobTask.java" />
-        <option value="$PROJECT_DIR$/api-basic/src/main/java/com/qpp/basic/util/DateUtil.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/controller/dto/SysUserDTO.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/controller/RoleController.java" />
-        <option value="$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/enums/ResponseConstants.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/core/BootListener/MyApplicationListener.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/service/system/SchdulerJobService.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/service/system/impl/SchdulerJobServiceImpl.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/core/filter/VerfityCodeFilter.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/core/filter/CustomAdvicFilter.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/core/filter/PermissionFilter.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/config/ZBeanFactory.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/config/SwaggerConfig.java" />
-        <option value="$PROJECT_DIR$/api-basic/src/main/java/com/qpp/basic/shiro/ShiroUtil.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/config/LogConfig.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/core/shiro/LoginRealm.java" />
-        <option value="$PROJECT_DIR$/api-basic/src/main/java/com/qpp/basic/freemarker/MyFreemarkerConfig.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/zconfig/ShiroConfig.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/resources/mybatis/SysUserMapper.xml" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/config/ShiroConfig.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/service/system/impl/SysUserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/resources/mybatis/SysRoleUserMapper.xml" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/resources/mybatis/SysJobMapper.xml" />
-        <option value="$PROJECT_DIR$/api-basic/pom.xml" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/core/quartz/QuartzManager.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/core/BootListener/DataSourceJobThread.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/entity/system/SchdulerJob.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/resources/mybatis/SchdulerJobMapper.xml" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/mapper/system/SchdulerJobMapper.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/config/FreeMarkerConfig.java" />
-        <option value="$PROJECT_DIR$/api-basic/src/main/java/com/qpp/basic/util/CommonUtil.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/controller/LoginController.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/target/classes/application.yml" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/pom.xml" />
+        <option value="$PROJECT_DIR$/custom-module/oss-center/src/main/java/com/qpp/osscenter/controller/ConfigClientController.java" />
+        <option value="$PROJECT_DIR$/config-center/original-config/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/custom-module/oss-center/src/main/java/com/qpp/osscenter/config/datasource/DataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/config-repo/oss-center-dev.yml" />
+        <option value="$PROJECT_DIR$/config-center/original-config/pom.xml" />
+        <option value="$PROJECT_DIR$/turbine-dashboard/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/turbine-dashboard/src/main/java/com/qpp/turbine/TurbineDashboardApplication.java" />
+        <option value="$PROJECT_DIR$/custom-module/oss-center/src/main/java/com/qpp/osscenter/OssCenterApplication.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/zipkin-server/src/main/resources/zipkin.sql" />
+        <option value="$PROJECT_DIR$/custom-module/oss-center/pom.xml" />
+        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/core/quartz/customQuartz/JobDemo.java" />
+        <option value="$PROJECT_DIR$/zipkin-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/zipkin-server/src/main/java/com/qpp/zipkin/ZipkinServerApplication.java" />
+        <option value="$PROJECT_DIR$/zipkin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/custom-module/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-server/pom.xml" />
+        <option value="$PROJECT_DIR$/custom-module/oss-center/src/main/java/com/qpp/osscenter/config/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/zuul-server/src/main/java/com/qpp/zuul/controller/ZuulController.java" />
+        <option value="$PROJECT_DIR$/custom-module/oss-center/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/zuul-server/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/AdminUserApplication.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/config/DruidConfig.java" />
         <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/controller/JobController.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/controller/LogController.java" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/system/user/add-user.ftl" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/main/main.ftl" />
-        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/app/css/nmp.css" />
+        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/redirect/a.html" />
+        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/redirect/redis_client.ftl" />
+        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/controller/RedirectController.java" />
+        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/config/datasource/DataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/db-core/src/main/java/com/qpp/db/config/RedisSubListenerConfig.java" />
+        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/entity/system/SysLog.java" />
+        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/core/aspect/LogAspect.java" />
+        <option value="$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/enums/FileType.java" />
+        <option value="$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/enums/Planet.java" />
+        <option value="$PROJECT_DIR$/api-common/src/test/java/com/qpp/common/constant/WeightTable.java" />
+        <option value="$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/enums/Operation.java" />
+        <option value="$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/annotation/requestLimit/RequestLimitByTimeAspect.java" />
+        <option value="$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/annotation/requestLimit/RequestLimitByTimeAnnotation.java" />
+        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/entity/requestLimit/RequestLimitByTimeModel.java" />
+        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/service/requestLimit/IRequestLimitByTimeService.java" />
+        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/service/requestLimit/imp/RequestLimitByTimeServiceImp.java" />
+        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/core/aspect/RequestLimitByTimeAspect.java" />
+        <option value="$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/enums/ResponseConstants.java" />
+        <option value="$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/Constants.java" />
+        <option value="$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/ResponseConstantsErrorMessage.java" />
+        <option value="$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/core/exception/GlobalControllerExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/base/BaseHttpParamsResp.java" />
+        <option value="$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/exception/BusinessException.java" />
+        <option value="$PROJECT_DIR$/api-common/src/test/java/com/qpp/common/constant/enumeration/WeightTable.java" />
+        <option value="$PROJECT_DIR$/api-common/src/test/java/com/qpp/common/constant/enumeration/OperationTest.java" />
+        <option value="$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/enums/PayrollDay.java" />
+        <option value="$PROJECT_DIR$/api-common/src/test/java/com/qpp/common/constant/enumeration/PayrollDayTest.java" />
       </list>
     </option>
   </component>
@@ -215,52 +465,16 @@
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="admin-user" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework.boot:spring-boot-starter-web:2.1.1.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+          <item name="turbine-dashboard" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="admin-user" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework.boot:spring-boot-starter-web:2.1.1.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="org.springframework.boot:spring-boot-starter:2.1.1.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+          <item name="zuul-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="admin-user" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework.boot:spring-boot-starter-web:2.1.1.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="org.springframework.boot:spring-boot-starter:2.1.1.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-          <item name="org.springframework.boot:spring-boot-starter-logging:2.1.1.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="admin-user" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework.boot:spring-boot-starter-freemarker:2.1.1.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="agriculture" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="agriculture" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="zuul-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="config-center" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="custom-module" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="custom-module" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
       <select />
@@ -285,6 +499,7 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -295,114 +510,25 @@
             <path>
               <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
               <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="api-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
               <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="api-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
               <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="api-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="api-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="api-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="api-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="qpp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="api-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="qpp" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="api-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="qpp" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="api-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="qpp" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="custom-module" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="custom-module" type="462c0819:PsiDirectoryNode" />
-              <item name="admin-user" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="custom-module" type="462c0819:PsiDirectoryNode" />
-              <item name="admin-user" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="custom-module" type="462c0819:PsiDirectoryNode" />
-              <item name="admin-user" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
               <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="custom-module" type="462c0819:PsiDirectoryNode" />
-              <item name="admin-user" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -410,8 +536,7 @@
             <path>
               <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
               <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="custom-module" type="462c0819:PsiDirectoryNode" />
-              <item name="admin-user" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -420,8 +545,7 @@
             <path>
               <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
               <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="custom-module" type="462c0819:PsiDirectoryNode" />
-              <item name="admin-user" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -431,14 +555,246 @@
             <path>
               <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
               <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="custom-module" type="462c0819:PsiDirectoryNode" />
-              <item name="admin-user" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="qpp" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qpp" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="constant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qpp" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="constant" type="462c0819:PsiDirectoryNode" />
+              <item name="enums" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qpp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qpp" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qpp" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="constant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qpp" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="constant" type="462c0819:PsiDirectoryNode" />
+              <item name="enumeration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qpp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qpp" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qpp" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="constant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qpp" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="constant" type="462c0819:PsiDirectoryNode" />
+              <item name="enums" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qpp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qpp" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qpp" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="constant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="api-common" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qpp" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="constant" type="462c0819:PsiDirectoryNode" />
+              <item name="enumeration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="custom-module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="custom-module" type="462c0819:PsiDirectoryNode" />
+              <item name="admin-user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="custom-module" type="462c0819:PsiDirectoryNode" />
+              <item name="admin-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
@@ -447,106 +803,6 @@
               <item name="admin-user" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="qpp" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="custom-module" type="462c0819:PsiDirectoryNode" />
-              <item name="admin-user" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="qpp" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="custom-module" type="462c0819:PsiDirectoryNode" />
-              <item name="admin-user" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="qpp" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="custom-module" type="462c0819:PsiDirectoryNode" />
-              <item name="admin-user" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="qpp" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="BootListener" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="custom-module" type="462c0819:PsiDirectoryNode" />
-              <item name="admin-user" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="qpp" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="custom-module" type="462c0819:PsiDirectoryNode" />
-              <item name="admin-user" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="qpp" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="shiro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="custom-module" type="462c0819:PsiDirectoryNode" />
-              <item name="admin-user" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="qpp" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="custom-module" type="462c0819:PsiDirectoryNode" />
-              <item name="admin-user" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="qpp" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-              <item name="system" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
@@ -560,76 +816,84 @@
             <path>
               <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
               <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="custom-module" type="462c0819:PsiDirectoryNode" />
-              <item name="admin-user" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="turbine-dashboard" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
               <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="custom-module" type="462c0819:PsiDirectoryNode" />
-              <item name="admin-user" type="462c0819:PsiDirectoryNode" />
+              <item name="turbine-dashboard" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
               <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="custom-module" type="462c0819:PsiDirectoryNode" />
-              <item name="admin-user" type="462c0819:PsiDirectoryNode" />
+              <item name="turbine-dashboard" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-              <item name="layui" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
               <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="custom-module" type="462c0819:PsiDirectoryNode" />
-              <item name="admin-user" type="462c0819:PsiDirectoryNode" />
+              <item name="turbine-dashboard" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="ztree" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
               <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="custom-module" type="462c0819:PsiDirectoryNode" />
-              <item name="admin-user" type="462c0819:PsiDirectoryNode" />
+              <item name="turbine-dashboard" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
               <item name="agriculture" type="462c0819:PsiDirectoryNode" />
-              <item name="db-core" type="462c0819:PsiDirectoryNode" />
+              <item name="turbine-dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qpp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="turbine-dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qpp" type="462c0819:PsiDirectoryNode" />
+              <item name="turbine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agriculture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agriculture" type="462c0819:PsiDirectoryNode" />
+              <item name="turbine-dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="SearchEverywhereHistoryKey" value="DataSourceJobThread&#9;FILE&#9;file://D:/GitHup/spring/agriculture/custom-module/admin-user/src/main/java/com/qpp/admin/core/BootListener/DataSourceJobThread.java" />
+    <property name="SONARLINT_ISSUES_SPLIT_PROPORTION" value="0.548062" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="Round&#9;FILE&#9;jar://D:/DevTool/java/jdk1.8/src.zip!/java/math/RoundingMode.java&#10;BigD&#9;PSI&#9;JAVA://java.math.BigDecimal&#10;BigDecimal&#9;null&#9;null&#10;Rounding&#9;PSI&#9;JAVA://java.math.RoundingMode&#10;Life&#9;PSI&#9;JAVA://org.apache.catalina.Lifecycle&#10;LifeCycle&#9;null&#9;null&#10;FeignClientsConfiguration&#9;PSI&#9;JAVA://org.springframework.cloud.openfeign.FeignClientsConfiguration&#10;DataSourceJobThread&#9;FILE&#9;file://D:/GitHup/spring/agriculture/custom-module/admin-user/src/main/java/com/qpp/admin/core/BootListener/DataSourceJobThread.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -641,6 +905,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitHup\spring\agriculture" />
+      <recent name="D:\GitHup\spring\agriculture\custom-module\admin-user\src\main\resources" />
       <recent name="D:\GitHup\spring\agriculture\custom-module\admin-user\src\main\resources\plugin\bootstrap" />
       <recent name="D:\GitHup\spring\agriculture\custom-module\admin-user\src\main\resources\mybatis\system" />
     </key>
@@ -648,18 +914,18 @@
       <recent name="com.qpp.admin" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.qpp.admin.controller" />
-      <recent name="com.qpp.basic.freemarker" />
-      <recent name="com.qpp.admin.mapper.system" />
-      <recent name="com.qpp.admin.service.system.impl" />
-      <recent name="com.qpp.admin.service.system" />
+      <recent name="com.qpp.common.constant" />
+      <recent name="com.qpp.common.base" />
+      <recent name="com.qpp.admin.core.exception" />
+      <recent name="com.qpp.common.exception" />
+      <recent name="com.qpp.admin.entity.requestLimit" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\GitHup\spring\agriculture\custom-module\admin-user\src\main\resources\plugin\app" />
-      <recent name="D:\GitHup\spring\agriculture\custom-module\admin-user\src\main\java\com\qpp\admin\controller" />
-      <recent name="D:\GitHup\spring\agriculture\custom-module\admin-user\src\main\java\com\qpp\admin\mapper\system" />
-      <recent name="D:\GitHup\spring\agriculture\custom-module\admin-user\src\main\resources" />
-      <recent name="D:\GitHup\spring\agriculture\api-basic\src\main\java\com\qpp\basic\util" />
+      <recent name="D:\GitHup\spring\agriculture\custom-module\admin-user\src\main\java\com\qpp\admin\service" />
+      <recent name="D:\GitHup\spring\agriculture\api-common\src\main\java\com\qpp\common\annotation" />
+      <recent name="D:\GitHup\spring\agriculture\custom-module\admin-user\src\main\resources\plugin\bootstrap\js" />
+      <recent name="D:\GitHup\spring\agriculture\custom-module\admin-user\src\main\resources\templates\redirect" />
+      <recent name="D:\GitHup\spring\agriculture\turbine-dashboard\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -678,9 +944,53 @@
         </RuleState>
       </list>
     </option>
-    <option name="contentProportion" value="0.06584043" />
+    <option name="contentProportion" value="0.2680093" />
   </component>
-  <component name="RunManager" selected="Spring Boot.AdminUserApplication">
+  <component name="RunManager" selected="Application.PayrollDayTest">
+    <configuration name="OperationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qpp.common.constant.enumeration.OperationTest" />
+      <module name="api-common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qpp.common.constant.enumeration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PayrollDayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qpp.common.constant.enumeration.PayrollDayTest" />
+      <module name="api-common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qpp.common.constant.enumeration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SHAHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qpp.common.utils.SHAHelper" />
+      <module name="api-common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qpp.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="WeightTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qpp.common.constant.enumeration.WeightTable" />
+      <module name="api-common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qpp.common.constant.enumeration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -731,6 +1041,22 @@
       <module name="eureka_server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.qpp.eureka.EurekaServerApp" />
     </configuration>
+    <configuration name="OriginalConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="original-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qpp.originalconfig.OriginalConfigApplication" />
+    </configuration>
+    <configuration name="OssCenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="oss-center" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qpp.osscenter.OssCenterApplication" />
+    </configuration>
+    <configuration name="TurbineDashboardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="turbine-dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qpp.turbine.TurbineDashboardApplication" />
+    </configuration>
+    <configuration name="ZuulServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zuul-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qpp.zuul.ZuulServerApplication" />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -756,13 +1082,28 @@
     <list>
       <item itemvalue="Spring Boot.EurekaServerApp" />
       <item itemvalue="Spring Boot.AdminUserApplication" />
+      <item itemvalue="Spring Boot.OssCenterApplication" />
+      <item itemvalue="Spring Boot.OriginalConfigApplication" />
+      <item itemvalue="Spring Boot.ZuulServerApplication" />
+      <item itemvalue="Spring Boot.TurbineDashboardApplication" />
       <item itemvalue="Spring Boot.EurekaClientApplication" />
+      <item itemvalue="Application.SHAHelper" />
+      <item itemvalue="Application.WeightTable" />
+      <item itemvalue="Application.OperationTest" />
+      <item itemvalue="Application.PayrollDayTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PayrollDayTest" />
+        <item itemvalue="Application.OperationTest" />
+        <item itemvalue="Application.WeightTable" />
         <item itemvalue="Spring Boot.EurekaClientApplication" />
+        <item itemvalue="Application.SHAHelper" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\lenovo\AppData\Roaming\Subversion</configuration>
@@ -783,90 +1124,461 @@
       <workItem from="1545181593056" duration="3195000" />
       <workItem from="1545356840820" duration="10926000" />
       <workItem from="1545379187128" duration="20090000" />
+      <workItem from="1545406874251" duration="66000" />
+      <workItem from="1545440900138" duration="545000" />
+      <workItem from="1545540815084" duration="34394000" />
+      <workItem from="1545613766299" duration="34670000" />
+      <workItem from="1545699864846" duration="23140000" />
+      <workItem from="1545786842764" duration="4111000" />
+      <workItem from="1545989927477" duration="1294000" />
+      <workItem from="1546045540598" duration="10012000" />
+      <workItem from="1546075614248" duration="1863000" />
+      <workItem from="1546391625871" duration="1018000" />
+      <workItem from="1546477764981" duration="7763000" />
+      <workItem from="1546564644174" duration="14634000" />
+      <workItem from="1546651550268" duration="5845000" />
+      <workItem from="1546758787929" duration="1522000" />
+      <workItem from="1546765554003" duration="3592000" />
+      <workItem from="1546823447259" duration="702000" />
+      <workItem from="1546909702644" duration="487000" />
+      <workItem from="1547108707885" duration="2123000" />
+      <workItem from="1547169530849" duration="6323000" />
+      <workItem from="1547184994504" duration="16031000" />
+      <workItem from="1547253296141" duration="4525000" />
+      <workItem from="1547428281245" duration="620000" />
+      <workItem from="1547452187102" duration="7035000" />
+      <workItem from="1547515000597" duration="621000" />
+      <workItem from="1547531143240" duration="3455000" />
+      <workItem from="1547600866903" duration="4071000" />
+      <workItem from="1547688005006" duration="8049000" />
+      <workItem from="1547773845920" duration="647000" />
+      <workItem from="1550408468721" duration="2224000" />
+      <workItem from="1550559865491" duration="10067000" />
+      <workItem from="1550571678918" duration="117000" />
+      <workItem from="1550575605599" duration="823000" />
+      <workItem from="1550656491562" duration="978000" />
+      <workItem from="1550796604329" duration="9435000" />
+      <workItem from="1551358879558" duration="552000" />
+      <workItem from="1551784189419" duration="3008000" />
+      <workItem from="1551871638212" duration="539000" />
+      <workItem from="1551959792332" duration="1122000" />
+      <workItem from="1552737755460" duration="544000" />
+      <workItem from="1552741938256" duration="4834000" />
+      <workItem from="1552780482964" duration="1193000" />
+      <workItem from="1552919098240" duration="805000" />
+      <workItem from="1553266798249" duration="7460000" />
     </task>
+    <task id="LOCAL-00001" summary="增加一些工具类">
+      <created>1545546808124</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1545546808124</updated>
+    </task>
+    <task id="LOCAL-00002" summary="增加多数据源">
+      <created>1545644042418</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1545644042418</updated>
+    </task>
+    <task id="LOCAL-00003" summary="异步处理日志">
+      <created>1545644106224</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1545644106224</updated>
+    </task>
+    <task id="LOCAL-00004" summary="简单修改">
+      <created>1545654274197</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1545654274197</updated>
+    </task>
+    <task id="LOCAL-00005" summary="this is first commit">
+      <created>1545715320346</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1545715320346</updated>
+    </task>
+    <task id="LOCAL-00006" summary="配置文件">
+      <created>1545725572645</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1545725572645</updated>
+    </task>
+    <task id="LOCAL-00007" summary="config">
+      <created>1545727768731</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1545727768731</updated>
+    </task>
+    <task id="LOCAL-00008" summary="this is first commit">
+      <created>1545745799964</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1545745799964</updated>
+    </task>
+    <task id="LOCAL-00009" summary="更新公共类">
+      <created>1545747707763</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1545747707763</updated>
+    </task>
+    <task id="LOCAL-00010" summary="更新配置文件">
+      <created>1545748142570</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1545748142570</updated>
+    </task>
+    <task id="LOCAL-00011" summary="db整改">
+      <created>1545748206179</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1545748206179</updated>
+    </task>
+    <task id="LOCAL-00012" summary="更新配置文件">
+      <created>1545750006823</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1545750006823</updated>
+    </task>
+    <task id="LOCAL-00013" summary="更新配置文件">
+      <created>1545750242921</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1545750242921</updated>
+    </task>
+    <task id="LOCAL-00014" summary="原装配置中心">
+      <created>1546054347964</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1546054347964</updated>
+    </task>
+    <task id="LOCAL-00015" summary="公共类修改">
+      <created>1546054701334</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1546054701334</updated>
+    </task>
+    <task id="LOCAL-00016" summary="配置文件调整">
+      <created>1546054916384</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1546054916384</updated>
+    </task>
+    <task id="LOCAL-00017" summary="配置文件调整">
+      <created>1546055167229</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1546055167229</updated>
+    </task>
+    <task id="LOCAL-00018" summary="banner">
+      <created>1546055777453</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1546055777453</updated>
+    </task>
+    <task id="LOCAL-00019" summary="redis key工具类">
+      <created>1546486102428</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1546486102428</updated>
+    </task>
+    <task id="LOCAL-00020" summary="公共类修改">
+      <created>1546525534593</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1546525534593</updated>
+    </task>
+    <task id="LOCAL-00021" summary="feign hystrix test">
+      <created>1546595850598</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1546595850598</updated>
+    </task>
+    <task id="LOCAL-00022" summary="turbine-dashbord 断路器监控器">
+      <created>1546611772340</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1546611772340</updated>
+    </task>
+    <task id="LOCAL-00023" summary="zuul 服务网关">
+      <created>1546611867295</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1546611867295</updated>
+    </task>
+    <task id="LOCAL-00024" summary="调整">
+      <created>1546612296339</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1546612296339</updated>
+    </task>
+    <task id="LOCAL-00025" summary="test">
+      <created>1546613380892</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1546613380892</updated>
+    </task>
+    <task id="LOCAL-00026" summary="test">
+      <created>1546613895202</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1546613895202</updated>
+    </task>
+    <task id="LOCAL-00027" summary="feign hystrix test">
+      <created>1547109802321</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1547109802322</updated>
+    </task>
+    <task id="LOCAL-00028" summary="管理端修改">
+      <created>1547195511946</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1547195511946</updated>
+    </task>
+    <task id="LOCAL-00029" summary="oss 第一版待修改">
+      <created>1547195875075</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1547195875075</updated>
+    </task>
+    <task id="LOCAL-00030" summary="增加监控">
+      <created>1547195943022</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1547195943022</updated>
+    </task>
+    <task id="LOCAL-00031" summary="网关修改、增加监控">
+      <created>1547196075100</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1547196075100</updated>
+    </task>
+    <task id="LOCAL-00032" summary="redis 客户端">
+      <created>1547215307547</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1547215307547</updated>
+    </task>
+    <task id="LOCAL-00033" summary="监控">
+      <created>1547215480266</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1547215480266</updated>
+    </task>
+    <task id="LOCAL-00034" summary="banner">
+      <created>1547215527196</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1547215527196</updated>
+    </task>
+    <task id="LOCAL-00035" summary="redis 公共包">
+      <created>1547215585796</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1547215585796</updated>
+    </task>
+    <task id="LOCAL-00036" summary="配置更新">
+      <created>1547215697973</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1547215697973</updated>
+    </task>
+    <task id="LOCAL-00037" summary="增加重定向">
+      <created>1547258877041</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1547258877041</updated>
+    </task>
+    <task id="LOCAL-00038" summary="....">
+      <created>1547697360917</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1547697360917</updated>
+    </task>
+    <task id="LOCAL-00039" summary="test">
+      <created>1547702429116</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1547702429116</updated>
+    </task>
+    <task id="LOCAL-00040" summary="test">
+      <created>1547702574501</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1547702574501</updated>
+    </task>
+    <task id="LOCAL-00041" summary="异常处理">
+      <created>1551796857193</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1551796857193</updated>
+    </task>
+    <task id="LOCAL-00042" summary="xiugai">
+      <created>1551796933670</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1551796933670</updated>
+    </task>
+    <task id="LOCAL-00043" summary="enum测试">
+      <created>1553351092654</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1553351092654</updated>
+    </task>
+    <task id="LOCAL-00044" summary="oss 第一版待修改">
+      <created>1553351160409</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1553351160409</updated>
+    </task>
+    <task id="LOCAL-00045" summary="test">
+      <created>1553351413338</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1553351413338</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55875000" />
+    <option name="totallyTimeSpent" value="298734000" />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" weight="0.32897604" />
-      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.26096824" />
+      <window_info anchor="right" id="Jms Messenger" order="4" weight="0.46822995" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.40239912" />
+      <window_info anchor="right" id="Redis Servers" order="4" weight="0.46822995" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.15245202" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
+      <window_info id="Designer" order="3" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.14356436" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3838604" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32824427" />
+      <window_info anchor="bottom" id="Alipay DevTools" order="9" weight="0.3293348" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49946696" visible="true" weight="0.40239912" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
+      <window_info id="Image Layers" order="5" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run Dashboard" order="7" sideWeight="0.49946696" weight="0.25785124" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21983472" />
-      <window_info anchor="bottom" id="Spring" order="7" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run Dashboard" order="7" sideWeight="0.49946696" weight="0.217012" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.49752066" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4154853" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.52780807" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33661118" />
-      <window_info anchor="right" id="Bean Validation" order="3" />
-      <window_info id="Web" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="SonarLint" order="7" weight="0.32897604" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.81201047" visible="true" weight="0.2750533" />
+      <window_info anchor="right" id="Bean Validation" order="3" weight="0.32980332" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" order="7" weight="0.14380166" />
       <window_info anchor="right" id="BPMNPalette" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32838285" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="7" sideWeight="0.20454545" side_tool="true" weight="0.31467474" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="JProfiler" order="7" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.20392585" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
     <layout-to-restore>
-      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Designer" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32897604" />
-      <window_info id="Image Layers" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
+      <window_info id="Image Layers" order="5" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20661157" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="7" sideWeight="0.20454545" side_tool="true" visible="true" weight="0.31467474" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.32897604" />
-      <window_info anchor="bottom" id="Messages" order="16" weight="0.32897604" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="SonarLint" order="10" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.40661156" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289256" />
+      <window_info anchor="bottom" id="SonarLint" order="10" weight="0.12561983" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="BPMNPalette" order="5" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
-      <window_info anchor="right" id="Maven Projects" order="6" visible="true" weight="0.28304905" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
-      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32824427" />
+      <window_info anchor="right" id="Maven Projects" order="6" visible="true" weight="0.071104385" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.81201047" visible="true" weight="0.31467474" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32980332" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.20392585" />
       <window_info anchor="right" id="Bean Validation" order="10" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="14" sideWeight="0.49946696" visible="true" weight="0.42156863" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="14" sideWeight="0.49946696" visible="true" weight="0.36694214" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -879,273 +1591,462 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/config-center/apollo/apollo" />
     </ignored-roots>
+    <MESSAGE value="db整改" />
+    <MESSAGE value="更新配置文件" />
+    <MESSAGE value="原装配置中心" />
+    <MESSAGE value="配置文件调整" />
+    <MESSAGE value="redis key工具类" />
+    <MESSAGE value="公共类修改" />
+    <MESSAGE value="turbine-dashbord 断路器监控器" />
+    <MESSAGE value="zuul 服务网关" />
+    <MESSAGE value="调整" />
+    <MESSAGE value="feign hystrix test" />
+    <MESSAGE value="管理端修改" />
+    <MESSAGE value="增加监控" />
+    <MESSAGE value="网关修改、增加监控" />
+    <MESSAGE value="redis 客户端" />
+    <MESSAGE value="监控" />
+    <MESSAGE value="banner" />
+    <MESSAGE value="redis 公共包" />
+    <MESSAGE value="配置更新" />
+    <MESSAGE value="增加重定向" />
+    <MESSAGE value="...." />
+    <MESSAGE value="异常处理" />
+    <MESSAGE value="xiugai" />
+    <MESSAGE value="enum测试" />
+    <MESSAGE value="oss 第一版待修改" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/db-core/src/main/java/com/qpp/db/config/DataSourceConfig.java</url>
-          <line>56</line>
+          <url>file://$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/core/aspect/LogAspect.java</url>
+          <line>115</line>
           <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/api-common/src/test/java/com/qpp/common/constant/enumeration/WeightTable.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/DevTool/maven/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar!/org/apache/commons/lang/ArrayUtils.class</url>
+          <line>1493</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/enums/Operation.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/enums/PayrollDay.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/enums/PayrollDay.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/api-common/src/test/java/com/qpp/common/constant/enumeration/PayrollDayTest.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/enums/PayrollDay.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="43" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/controller/JobController.java">
+    <entry file="jar://D:/DevTool/maven/repository/org/springframework/data/spring-data-redis/2.1.3.RELEASE/spring-data-redis-2.1.3.RELEASE-sources.jar!/org/springframework/data/redis/connection/RedisConnectionFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1484">
-          <caret line="101" column="11" selection-start-line="101" selection-start-column="11" selection-end-line="101" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="240">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/controller/LogController.java">
+    <entry file="file://$PROJECT_DIR$/db-core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="69" column="14" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="1140">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/error/403.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/error/404.ftl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/error/error.ftl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/system/h5/add-h5Url.ftl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/system/h5/h5UrlList.ftl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/system/h5/update-h5Url.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-600" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/system/product/product-add.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1200" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/system/product/loan-type-add.ftl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/system/baseInfo/registerUsers.ftl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/system/startup/add-startup.ftl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/system/startup/startlist.ftl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/system/startup/update-startup.ftl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/system/version/versionAndroid.ftl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/system/aboutwe/aboutwe.ftl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/system/user/update-user.ftl">
+    <entry file="file://$PROJECT_DIR$/custom-module/oss-center/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <folding>
-            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-          </folding>
+          <caret selection-end-line="1" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/system/user/re-pass.ftl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/system/strategysuccess/update-strategy.ftl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/system/strategysuccess/update-strategy(new).ftl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/system/strategysuccess/add-strategy(new).ftl">
+    <entry file="file://$PROJECT_DIR$/custom-module/oss-center/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1800" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/system/strategysuccess/add-strategy.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-300" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/system/strategysuccess/strategy_new.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-660" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/system/user/userList.ftl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/system/user/add-user.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="n#style#0;n#fieldset#0;n#div#0;n#div#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#legend#0;n#fieldset#0;n#div#0;n#div#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="1960">
+          <caret line="98" column="29" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/main/tab.ftl">
+    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/core/aspect/LogAspect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-300" />
+        <state relative-caret-position="1100">
+          <caret line="84" column="50" selection-start-line="84" selection-start-column="50" selection-end-line="84" selection-end-column="50" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/app/css/nmp.css">
+    <entry file="jar://D:/DevTool/maven/repository/org/springframework/spring-context/5.1.3.RELEASE/spring-context-5.1.3.RELEASE.jar!/org/springframework/scheduling/annotation/AsyncResult.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/service/log/impl/LogServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/enums/OnlineStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/DevTool/java/jdk1.8/src.zip!/java/util/function/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/enums/FileType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/app/channelSetting/accountSetting.js">
+    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/config/datasource/DynamicDataSource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-720" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/app/baseInfo/registerUsers.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/build/css/login.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/laydate/theme/default/font/iconfont.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/summernote/summernote.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/summernote/summernote.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/tools/common.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/x-admin/css/font.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/x-admin/images/aiwrap.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/x-admin/images/bg.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/main/main.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
-          <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+        <state relative-caret-position="200">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/build/css/app.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/build/images/GetVerfiyCode.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/build/js/app.js">
+    <entry file="jar://D:/DevTool/java/jdk1.8/src.zip!/java/lang/ThreadLocal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="164">
+          <caret line="158" column="13" selection-start-line="158" selection-start-column="13" selection-end-line="158" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/build/js/kitconfig.js">
+    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/config/datasource/DataSourceContextHolder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="404">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/html/icon.html">
+    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/config/datasource/DataSourceConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="-1166">
+          <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/plugins/font-awesome/css/font-awesome.css">
+    <entry file="file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/enums/BusinessType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-300" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/templates/login.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1874" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/tools/loginValidate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/tools/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-554">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/x-admin/css/xadmin.css">
+    <entry file="file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/enums/DataSourceType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="220">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/app/nmp.js">
+    <entry file="file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/enums/BusinessStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/DevTool/java/jdk1.8/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="869" column="23" selection-start-line="869" selection-start-column="23" selection-end-line="869" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/enums/OperatorType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/config/Global.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1487">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/entity/requestLimit/RequestLimitByTimeModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/service/requestLimit/IRequestLimitByTimeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/service/requestLimit/imp/RequestLimitByTimeServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-519">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/annotation/requestLimit/RequestLimitByTimeAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/enums/ResponseConstants.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/resources/plugin/tools/tool.js">
+    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/core/aspect/RequestLimitByTimeAspect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-359">
-          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        <state relative-caret-position="1000">
+          <caret line="96" column="38" selection-start-line="96" selection-start-column="38" selection-end-line="96" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/ResponseConstantsErrorMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="43" column="56" selection-start-line="43" selection-start-column="56" selection-end-line="43" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/DevTool/maven/repository/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE.jar!/org/springframework/web/bind/MethodArgumentNotValidException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/src/main/java/com/qpp/admin/core/exception/GlobalControllerExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="87" column="38" selection-start-line="87" selection-start-column="38" selection-end-line="87" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/utils/SHAHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="44" column="31" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/base/BaseHttpParamsResp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2080">
+          <caret line="136" column="116" selection-start-line="136" selection-start-column="116" selection-end-line="136" selection-end-column="116" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/exception/BusinessException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="46" column="50" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2460">
+          <caret line="123" column="42" selection-start-line="108" selection-start-column="8" selection-end-line="123" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turbine-dashboard/src/main/java/com/qpp/turbine/TurbineDashboardApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom-module/admin-user/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-common/target/classes/com/qpp/common/constant/enums/Planet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#1086#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/DevTool/maven/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar!/org/apache/commons/lang/ArrayUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="1493" selection-start-line="1493" selection-end-line="1493" />
+          <folding>
+            <element signature="e#45400#45401#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-common/target/test-classes/com/qpp/common/constant/enumeration/WeightTable.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-common/target/test-classes/com/qpp/common/constant/enumeration/OperationTest.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://D:/DevTool/java/jdk1.8/src.zip!/java/math/RoundingMode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2081">
+          <caret line="324" column="36" selection-start-line="324" selection-start-column="36" selection-end-line="324" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/enums/UserStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/DevTool/java/jdk1.8/src.zip!/java/math/BigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7269">
+          <caret line="2300" column="28" selection-start-line="2300" selection-start-column="28" selection-end-line="2300" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/enums/Planet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#842#843#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/DevTool/java/jdk1.8/src.zip!/java/lang/Enum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="75" column="24" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
+          <folding>
+            <element signature="e#2036#2037#0" expanded="true" />
+            <element signature="e#2063#2064#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-common/src/test/java/com/qpp/common/constant/enumeration/WeightTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="29" column="58" lean-forward="true" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/enums/Operation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-549">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-common/src/test/java/com/qpp/common/constant/enumeration/OperationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-common/src/main/java/com/qpp/common/constant/enums/PayrollDay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="50" column="61" lean-forward="true" selection-start-line="50" selection-start-column="61" selection-end-line="50" selection-end-column="61" />
+          <folding>
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-common/src/test/java/com/qpp/common/constant/enumeration/PayrollDayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="22" column="67" selection-start-line="22" selection-start-column="67" selection-end-line="22" selection-end-column="67" />
         </state>
       </provider>
     </entry>
@@ -1201,7 +2102,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>api-common</last-edited>
+          <last-edited>default-config</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1226,7 +2127,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -1,4 +1,0 @@
-
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¶œì—8Òœ—õü,
-gsquid:S4065"FReplace this anonymous class with a call to "ThreadLocal.withInitial".(þÖÇ¢üÿÿÿÿ8Òœ—õü,
-Usquid:S1118":Add a private constructor to hide the implicit public one.(ÝÄú8Òœ—õü,

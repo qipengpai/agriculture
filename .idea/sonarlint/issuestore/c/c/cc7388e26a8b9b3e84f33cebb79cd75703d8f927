@@ -1,12 +1,0 @@
-
-ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(½áØÔùÿÿÿÿ
-Bsquid:S2447"-Null is returned but a "Boolean" is expected.(¥¹ï
-=squid:S1604"(Make this anonymous inner class a lambda(“éŸ­
-<squid:S1604"(Make this anonymous inner class a lambda(•“Å
-Bsquid:S1604"(Make this anonymous inner class a lambda(Ï¾ƒ‡ıÿÿÿÿ
-asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
-asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
-asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
-asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
-asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(°¾ÃÕûÿÿÿÿ
-Nsquid:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(Ÿğ¸—

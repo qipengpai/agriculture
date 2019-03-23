@@ -11,7 +11,11 @@
       <module fileurl="file://$PROJECT_DIR$/db-core/db-core.iml" filepath="$PROJECT_DIR$/db-core/db-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/register-center/eureka_client/eureka_client.iml" filepath="$PROJECT_DIR$/register-center/eureka_client/eureka_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/register-center/eureka_server/eureka_server.iml" filepath="$PROJECT_DIR$/register-center/eureka_server/eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-center/original-config/original-config.iml" filepath="$PROJECT_DIR$/config-center/original-config/original-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custom-module/oss-center/oss-center.iml" filepath="$PROJECT_DIR$/custom-module/oss-center/oss-center.iml" />
       <module fileurl="file://$PROJECT_DIR$/register-center/register-center.iml" filepath="$PROJECT_DIR$/register-center/register-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turbine-dashboard/turbine-dashboard.iml" filepath="$PROJECT_DIR$/turbine-dashboard/turbine-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-server/zuul-server.iml" filepath="$PROJECT_DIR$/zuul-server/zuul-server.iml" />
     </modules>
   </component>
 </project>

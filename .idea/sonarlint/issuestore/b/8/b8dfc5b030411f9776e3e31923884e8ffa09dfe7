@@ -1,4 +1,0 @@
-
-ˆ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(ØÖØ98ÏİÎûü,
-ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ëû¯’úÿÿÿÿ8ÏİÎûü,
-[squid:S1118":Add a private constructor to hide the implicit public one.(‚À­øÿÿÿÿ8ÏİÎûü,

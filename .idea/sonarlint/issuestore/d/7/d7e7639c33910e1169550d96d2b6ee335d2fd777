@@ -1,18 +1,54 @@
 
-tsquid:S3008"ZRename this field "AUTO_REOMVE_PRE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßáú§ÿÿÿÿÿ
-msquid:S3008"SRename this field "PAGE_NUM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÑı†ÿÿÿÿÿ
-isquid:S3008"TRename this field "PAGE_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆı©ã
-osquid:S3008"ZRename this field "ORDER_BY_COLUMN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜»
-ksquid:S3008"QRename this field "IS_ASC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§²ÚÈúÿÿÿÿ
-Osquid:S1444"5Make this "public static AUTO_REOMVE_PRE" field final(ßáú§ÿÿÿÿÿ
-Hsquid:S1444".Make this "public static PAGE_NUM" field final(ïÑı†ÿÿÿÿÿ
-Dsquid:S1444"/Make this "public static PAGE_SIZE" field final(ˆı©ã
-Jsquid:S1444"5Make this "public static ORDER_BY_COLUMN" field final(˜»
-Fsquid:S1444",Make this "public static IS_ASC" field final(§²ÚÈúÿÿÿÿ
-Œ"squid:ClassVariableVisibilityCheck"[Make AUTO_REOMVE_PRE a static final constant or non-public and provide accessors if needed.(ßáú§ÿÿÿÿÿ
-…"squid:ClassVariableVisibilityCheck"TMake PAGE_NUM a static final constant or non-public and provide accessors if needed.(ïÑı†ÿÿÿÿÿ
-"squid:ClassVariableVisibilityCheck"UMake PAGE_SIZE a static final constant or non-public and provide accessors if needed.(ˆı©ã
-‡"squid:ClassVariableVisibilityCheck"[Make ORDER_BY_COLUMN a static final constant or non-public and provide accessors if needed.(˜»
-ƒ"squid:ClassVariableVisibilityCheck"RMake IS_ASC a static final constant or non-public and provide accessors if needed.(§²ÚÈúÿÿÿÿ
-Gsquid:S1135"2Complete the task associated to this TODO comment.(ûéŠâ
-Tsquid:S1118":Add a private constructor to hide the implicit public one.(“³±ûÿÿÿÿ
+Hsquid:S1444C",Make this "public static IS_ASC" field final(§²ÚÈúÿÿÿÿ
+rsquid:S3008j"TRename this field "GZIP_URI2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šò¿ş8Š¢”ò”-
+–"squid:ClassVariableVisibilityCheck\"\Make GZIP_URI_FILTER1 a static final constant or non-public and provide accessors if needed.(Í£÷ÿüÿÿÿÿ8Š¢”ò”-
+Fsquid:S14449"/Make this "public static PAGE_SIZE" field final(ˆı©ã
+ksquid:S30089"TRename this field "PAGE_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆı©ã
+Psquid:S1135P"2Complete the task associated to this TODO comment.(Ş¾®¾8Š¢”ò”-
+Usquid:S1135K"2Complete the task associated to this TODO comment.(¼Ëûşÿÿÿÿ8Š¢”ò”-
+Jsquid:S14444".Make this "public static PAGE_NUM" field final(ïÑı†ÿÿÿÿÿ
+Usquid:S1135l"2Complete the task associated to this TODO comment.(Š±¡¾şÿÿÿÿ8Š¢”ò”-
+osquid:S30084"SRename this field "PAGE_NUM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÑı†ÿÿÿÿÿ
+‘"squid:ClassVariableVisibilityChecke"\Make GZIP_URI_FILTER2 a static final constant or non-public and provide accessors if needed.(•––”8Š¢”ò”-
+Psquid:S1444R"2Make this "public static DEFAULT_ROLE" field final(ÿÃê„8Š¢”ò”-
+msquid:S3008C"QRename this field "IS_ASC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§²ÚÈúÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck4"TMake PAGE_NUM a static final constant or non-public and provide accessors if needed.(ïÑı†ÿÿÿÿÿ
+‰"squid:ClassVariableVisibilityChecka"UMake GZIP_URI1 a static final constant or non-public and provide accessors if needed.(Í™¢$8Š¢”ò”-
+Œ"squid:ClassVariableVisibilityCheckM"RMake APPKEY a static final constant or non-public and provide accessors if needed.(‚ËÁşÿÿÿÿ8Š¢”ò”-
+Š"squid:ClassVariableVisibilityCheckj"UMake GZIP_URI2 a static final constant or non-public and provide accessors if needed.(šò¿ş8Š¢”ò”-
+Osquid:S1135U"2Complete the task associated to this TODO comment.(¿Ã­q8Š¢”ò”-
+…"squid:ClassVariableVisibilityCheckC"RMake IS_ASC a static final constant or non-public and provide accessors if needed.(§²ÚÈúÿÿÿÿ
+ysquid:S3008n"[Rename this field "GZIP_URI_FILTER3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Íû”8Š¢”ò”-
+ƒ"squid:ClassVariableVisibilityCheck9"UMake PAGE_SIZE a static final constant or non-public and provide accessors if needed.(ˆı©ã
+Ysquid:S1444\"6Make this "public static GZIP_URI_FILTER1" field final(Í£÷ÿüÿÿÿÿ8Š¢”ò”-
+Xsquid:S1444W":Make this "public static DEFAULT_MANAGER_ROLE" field final(ğš¶Ã8Š¢”ò”-
+Tsquid:S1444n"6Make this "public static GZIP_URI_FILTER3" field final(˜Íû”8Š¢”ò”-
+Osquid:S1444M",Make this "public static APPKEY" field final(‚ËÁşÿÿÿÿ8Š¢”ò”-
+Usquid:S1135h"2Complete the task associated to this TODO comment.(³‡¦Ãûÿÿÿÿ8Š¢”ò”-
+‘"squid:ClassVariableVisibilityCheckn"\Make GZIP_URI_FILTER3 a static final constant or non-public and provide accessors if needed.(˜Íû”8Š¢”ò”-
+~squid:S3008\"[Rename this field "GZIP_URI_FILTER1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í£÷ÿüÿÿÿÿ8Š¢”ò”-
+•"squid:ClassVariableVisibilityCheckW"`Make DEFAULT_MANAGER_ROLE a static final constant or non-public and provide accessors if needed.(ğš¶Ã8Š¢”ò”-
+Usquid:S1135_"2Complete the task associated to this TODO comment.(³‡¦Ãûÿÿÿÿ8Š¢”ò”-
+Usquid:S1135c"2Complete the task associated to this TODO comment.(Š±¡¾şÿÿÿÿ8Š¢”ò”-
+vsquid:S3008/"ZRename this field "AUTO_REOMVE_PRE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßáú§ÿÿÿÿÿ
+Qsquid:S1444/"5Make this "public static AUTO_REOMVE_PRE" field final(ßáú§ÿÿÿÿÿ
+Lsquid:S1444a"/Make this "public static GZIP_URI1" field final(Í™¢$8Š¢”ò”-
+Lsquid:S1444>"5Make this "public static ORDER_BY_COLUMN" field final(˜»
+Isquid:S1135"2Complete the task associated to this TODO comment.(ûéŠâ
+}squid:S3008W"_Rename this field "DEFAULT_MANAGER_ROLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğš¶Ã8Š¢”ò”-
+usquid:S3008R"WRename this field "DEFAULT_ROLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÃê„8Š¢”ò”-
+Msquid:S1444j"/Make this "public static GZIP_URI2" field final(šò¿ş8Š¢”ò”-
+qsquid:S3008a"TRename this field "GZIP_URI1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í™¢$8Š¢”ò”-
+Msquid:S1444s"/Make this "public static GZIP_URI3" field final(›ÑÃ®8Š¢”ò”-
+Š"squid:ClassVariableVisibilityChecks"UMake GZIP_URI3 a static final constant or non-public and provide accessors if needed.(›ÑÃ®8Š¢”ò”-
+"squid:ClassVariableVisibilityCheck/"[Make AUTO_REOMVE_PRE a static final constant or non-public and provide accessors if needed.(ßáú§ÿÿÿÿÿ
+Usquid:S1135F"2Complete the task associated to this TODO comment.(—œÒªøÿÿÿÿ8Š¢”ò”-
+"squid:ClassVariableVisibilityCheckR"XMake DEFAULT_ROLE a static final constant or non-public and provide accessors if needed.(ÿÃê„8Š¢”ò”-
+Tsquid:S1444e"6Make this "public static GZIP_URI_FILTER2" field final(•––”8Š¢”ò”-
+‰"squid:ClassVariableVisibilityCheck>"[Make ORDER_BY_COLUMN a static final constant or non-public and provide accessors if needed.(˜»
+Usquid:S1135Z"2Complete the task associated to this TODO comment.(Š±¡¾şÿÿÿÿ8Š¢”ò”-
+qsquid:S3008>"ZRename this field "ORDER_BY_COLUMN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜»
+tsquid:S3008M"QRename this field "APPKEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ËÁşÿÿÿÿ8Š¢”ò”-
+ysquid:S3008e"[Rename this field "GZIP_URI_FILTER2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•––”8Š¢”ò”-
+rsquid:S3008s"TRename this field "GZIP_URI3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÑÃ®8Š¢”ò”-
+Usquid:S1135q"2Complete the task associated to this TODO comment.(³‡¦Ãûÿÿÿÿ8Š¢”ò”-

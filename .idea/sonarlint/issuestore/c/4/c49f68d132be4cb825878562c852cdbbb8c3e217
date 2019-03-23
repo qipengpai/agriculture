@@ -1,6 +1,0 @@
-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(¥³¦ïıÿÿÿÿ8ÄìÑÿü,
-Fsquid:S00108")Either remove or fill this block of code.(íÁİ8ÄìÑÿü,
-¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ë›¦íùÿÿÿÿ8ÄìÑÿü,
-€squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿ8ÄìÑÿü,

@@ -1,5 +1,4 @@
 
 ]squid:S1126"AReplace this if-then-else statement by a single return statement.(ºá8ó˜½ˆı,
-Fsquid:S1481"*Remove this unused "roles" local variable.(ôåöÅ8ó˜½ˆı,
-Usquid:S1854"9Remove this useless assignment to local variable "roles".(ôåöÅ8ó˜½ˆı,
 jsquid:MaximumInheritanceDepth"<This class has 9 parents which is greater than 5 authorized.(ÌÊ»Í8ó˜½ˆı,
+Ssquid:S1135"2Complete the task associated to this TODO comment.(€—–ùÿÿÿÿ8úêıÓƒ-
