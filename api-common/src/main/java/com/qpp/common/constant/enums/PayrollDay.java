@@ -22,7 +22,7 @@ public enum PayrollDay {
     PayrollDay(PayType payType) {
         this.payType = payType;
     }
-    double pay(double hoursWorks,double payRate){
+    public double pay(double hoursWorks,double payRate){
         return payType.pay(hoursWorks,payRate);
     }
 
@@ -47,7 +47,7 @@ public enum PayrollDay {
         abstract double overtimePay(double hoursWorks,double payRate);
 
         double pay(double hoursWorks,double payRate){
-            double basePay = hoursWorks * payRate;
+            double basePay = hoursWorks <= HOURS_PER_SHIFT ? hoursWorks * payRate :HOURS_PER_SHIFT * payRate;
             return basePay + overtimePay(hoursWorks,payRate);
         }
     }

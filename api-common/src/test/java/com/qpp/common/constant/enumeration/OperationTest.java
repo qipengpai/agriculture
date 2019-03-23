@@ -15,7 +15,8 @@ public class OperationTest {
         double x = 1.236;
         double y = 3.142;
         for (Operation operation:Operation.values()) {
-            System.out.printf("%f %s %f = %f%n",x,operation,y,operation.apply(x,y));
+            System.out.printf("%f %s %f = %f",x,operation,y,operation.apply(x,y));
+            System.out.printf("     ---    %s属于%s%n",operation.toString(),Operation.fromString(operation.toString()));
         }
     }
 }
